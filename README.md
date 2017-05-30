@@ -1,5 +1,5 @@
 ## ML_-and_DataScience_WWC
-####Session for Women Who Code for using R for ML in Data Science.
+Session for Women Who Code for using R for ML in Data Science.
     
     Project1_linmod.R
     irinamahmudjanova
