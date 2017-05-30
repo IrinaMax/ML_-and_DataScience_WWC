@@ -1,16 +1,16 @@
-# ML_-and_DataScience_WWC
-Session for Women Who Code for using R for ML in Data Science.
-Project1_linmod.R
-irinamahmudjanova
+## ML_-and_DataScience_WWC
+    Session for Women Who Code for using R for ML in Data Science.
+    Project1_linmod.R
+    irinamahmudjanova
 
-Sun Apr 9 21:29:32 2017
+    Sun Apr 9 21:29:32 2017
 
-bike <- read.csv('bikeshare.csv')
-print(head(bike))
-##              datetime season holiday workingday weather temp  atemp
-## 1 2011-01-01 00:00:00      1       0          0       1 9.84 14.395
-## 2 2011-01-01 01:00:00      1       0          0       1 9.02 13.635
-## 3 2011-01-01 02:00:00      1       0          0       1 9.02 13.635
+    bike <- read.csv('bikeshare.csv')
+    print(head(bike))
+    ##              datetime season holiday workingday weather temp  atemp
+    ## 1 2011-01-01 00:00:00      1       0          0       1 9.84 14.395
+    ## 2 2011-01-01 01:00:00      1       0          0       1 9.02 13.635
+    ## 3 2011-01-01 02:00:00      1       0          0       1 9.02 13.635
 ## 4 2011-01-01 03:00:00      1       0          0       1 9.84 14.395
 ## 5 2011-01-01 04:00:00      1       0          0       1 9.84 14.395
 ## 6 2011-01-01 05:00:00      1       0          0       2 9.84 12.880
